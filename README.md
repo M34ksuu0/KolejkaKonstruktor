@@ -3,6 +3,7 @@
 Program w C++ przedstawiający działanie kolejki za pomocą struktury kolejka i klasy uczen.
 
 Funkcje:
+
     dodaj(int nr) – dodaje element na koniec kolejki.
     
     wypisz() – wypisuje wszystkie elementy kolejki.
